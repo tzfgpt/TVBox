@@ -1,64 +1,10 @@
 {
   "sites": [
     {
-      "key": "葡萄资源",
-      "name": "葡萄资源",
-      "type": 0,
-      "api": "https://caiji.putaozy.net/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "探探资源",
-      "name": "探探资源",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "KK资源网",
-      "name": "KK资源网",
-      "type": 0,
-      "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "色猫资源",
-      "name": "色猫资源",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "乐播",
       "name": "乐播",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "哥哥妹妹",
-      "name": "哥哥妹妹",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shayu",
-      "name": "shayu",
-      "type": 0,
-      "api": "https://shayuapi.com/api.php/Seacms/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1250,3 +1196,4 @@
     "cms.qdwght.com"
   ]
 }
+
